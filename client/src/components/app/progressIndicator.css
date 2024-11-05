@@ -1,7 +1,0 @@
-
-.progressIndicator:before {
-    content: "";
-    background-color: red;
-    width: 1em;
-    height: 1em;
-}
